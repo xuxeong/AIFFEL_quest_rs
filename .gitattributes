@@ -1,0 +1,2 @@
+GoingDeeper/GD01/*.png filter=lfs diff=lfs merge=lfs -text
+GoingDeeper/GD01/*.ipynb filter=lfs diff=lfs merge=lfs -text
