@@ -7,8 +7,8 @@
 - [ ]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
         - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
-
-    <img width="1370" height="458" alt="Screenshot 2026-05-15 at 11 15 51 AM" src="https://github.com/user-attachments/assets/4f22a97f-4bd3-4571-9684-63d0bb32bee4" />
+        <img width="663" height="227" alt="Screenshot 2026-05-15 at 11 16 42 AM" src="https://github.com/user-attachments/assets/04344653-7c67-4358-a168-90ee2590f70e" />
+    
 
 - [ ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
@@ -27,7 +27,7 @@
     - 프로젝트 평가 기준에 더해 추가적으로 수행한 나만의 시도, 
     실험이 기록되어 있는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
-    <img width="663" height="227" alt="Screenshot 2026-05-15 at 11 16 42 AM" src="https://github.com/user-attachments/assets/04344653-7c67-4358-a168-90ee2590f70e" />
+    <img width="1370" height="458" alt="Screenshot 2026-05-15 at 11 15 51 AM" src="https://github.com/user-attachments/assets/4f22a97f-4bd3-4571-9684-63d0bb32bee4" />
 
 
         
